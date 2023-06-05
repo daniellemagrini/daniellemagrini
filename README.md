@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello!, Dani here 👋
+<br>
 
-<!--
-**daniellemagrini/daniellemagrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **ATOS BRASIL** as **SOFTWARE DEVELOPER**
+- 🌱 I’m currently learning **PYTHON / JavaScript / REACT**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danielle-magrini-b205aa167/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m currently working with:
+<br>
+<div display="inline">
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+</div>
+          
